@@ -27,7 +27,10 @@
 - Canvs.ai
 - WunderWerkz
 - PickleTour
-
+- 180smoke.ca
+- Productioncase
+- Futonbedsfromjapan
+- Inspa
 
 
 #### My Current Stack
@@ -35,12 +38,12 @@
 <img src="https://img.icons8.com/plasticine/80/000000/react.png"/> <img src="https://img.icons8.com/fluency/80/000000/node-js.png"/> <img src="https://img.icons8.com/color/80/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/80/000000/mongodb.png"/> <img src="https://img.icons8.com/color/80/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/80/000000/git.png"/> <img src="https://img.icons8.com/color/80/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/80/000000/css3.png"/> 
 
 
-
+<!---
 #### Profile
 
 
 ![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalhaJafar&count_private=true&show_icons=true&theme=slateorange&include_all_commits=true)
-
+--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaJafar&layout=compact&show_icons=true&theme=slateorange)](https://github.com/TalhaJafar/github-readme-stats)
 
 
