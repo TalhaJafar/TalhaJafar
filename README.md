@@ -4,7 +4,7 @@
 
 ##### Now
 
-- 💻 Contributing to [Dextr](https://github.com/dextr-cloud) 
+- 💻 Contributing to [Dextr](https://github.com/dextr-cloud) & [Cafe Zupas](https://github.com/CafeZupas/cafezupas_rewrite_frontend)
 - 🚀 Interested in Software System Designing and Product design
 - 🌱 Currently looking into NEST js and Design Patterns 
 - 💞️ Looking for conbtributing to JS based open source projects
