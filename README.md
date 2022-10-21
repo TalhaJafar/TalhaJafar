@@ -6,7 +6,7 @@
 
 - 💻 Contributing to [Dextr](https://github.com/dextr-cloud) & [Cafe Zupas](https://github.com/CafeZupas/cafezupas_rewrite_frontend)
 - 🚀 Interested in Software System Designing and Product design
-- 🌱 Currently looking into NEST js and Design Patterns 
+- 🌱 Currently looking into Design Patterns 
 - 💞️ Looking for conbtributing to JS based open source projects
 - 📖 Reading Atomic Habits by James Clear
 
@@ -15,14 +15,15 @@
 ##### Bio
 
 - 💼 Currently working as a Software Engineer at **Tkxel**
-- 📆 I use daily ```.js ``` , ```.yml```
+- 📆 I use daily ```.js ```, ```jsx```, ```HTML```, ```css```, ```.yml```
 - 🦻 Mostly active in **JS** community
 - 📢 Ping me about **React**, **Node Js**, **AWS** and **Front-end**
-- 🧠 Exploring & Writing articles related to **React** , **Node Js** and **General Info**
+- 🧠 Exploring articles related to **React** , **Node Js** and **General Info**
 - 🚀 Reach me at : [Linkedin](https://www.linkedin.com/in/talhajafar/)
 
 
 #### Projects Contributed In
+- CafeZupas
 - Dextr
 - Canvs.ai
 - WunderWerkz
