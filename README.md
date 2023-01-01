@@ -1,4 +1,4 @@
-## Hi 👋, I’m working as a senior software engineer ( MERN/AWS ) at **Tkxel** 
+## Hi 👋, I’m working as a Senior Software Engineer ( MERN/AWS ) at **Tkxel** 
 
 
 
