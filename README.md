@@ -1,10 +1,10 @@
-## Hi 👋, I’m working as a software engineer at **Tkxel** 
+## Hi 👋, I’m working as a senior software engineer ( MERN/AWS ) at **Tkxel** 
 
 
 
 ##### Now
 
-- 💻 Contributing to [Dextr](https://github.com/dextr-cloud) & [Cafe Zupas](https://github.com/CafeZupas/cafezupas_rewrite_frontend)
+- 💻 Contributing to [Cafe Zupas](https://github.com/CafeZupas/cafezupas_rewrite_frontend)
 - 🚀 Interested in Software System Designing and Product design
 - 🌱 Currently looking into Design Patterns 
 - 💞️ Looking for conbtributing to JS based open source projects
@@ -23,15 +23,15 @@
 
 
 #### Projects Contributed In
-- CafeZupas
-- Dextr
-- Canvs.ai
+- [Cafe Zupas](https://cafezupas.com/)
+- [Dextr](https://dextr.cloud)
+- [Canvs.ai](https://canvs.ai)
 - WunderWerkz
 - PickleTour
-- 180smoke.ca
-- Productioncase
-- Futonbedsfromjapan
-- Inspa
+- [180smoke.ca](https:180smoke.ca)
+- [Productioncase](https://productioncase.com/)
+- [Futonbedsfromjapan](https://www.futonbedsfromjapan.com/)
+- [Inspa](https://inspa.com/)
 
 
 #### My Current Stack
