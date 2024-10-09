@@ -1,12 +1,12 @@
-## Hi 👋, I’m working as a Senior Software Engineer ( MERN/AWS ) at **Tkxel** 
+## Hi 👋, I’m working as a Senior Software Engineer ( MERN/AWS ) at **Folio3** 
 
 
 
 ##### Now
 
-- 💻 Contributing to [Cafe Zupas](https://github.com/CafeZupas/cafezupas_rewrite_frontend)
+- 💻 Recent Contributions to [Sindro](https://www.sindro.io/)
 - 🚀 Interested in Software System Designing and Product design
-- 🌱 Currently looking into Design Patterns 
+- 🌱 Currently looking into Software Architectures, Scalable Data Management and Design Patterns 
 - 💞️ Looking for conbtributing to JS based open source projects
 - 📖 Reading Atomic Habits by James Clear
 
@@ -14,7 +14,7 @@
 
 ##### Bio
 
-- 💼 Currently working as a Software Engineer at **Tkxel**
+- 💼 Working as a Senior Software Engineer 
 - 📆 I use daily ```.js ```, ```jsx```, ```HTML```, ```css```, ```.yml```
 - 🦻 Mostly active in **JS** community
 - 📢 Ping me about **React**, **Node Js**, **AWS** and **Front-end**
@@ -23,6 +23,8 @@
 
 
 #### Projects Contributed In
+- [Sindro](https://www.sindro.io/)
+- [Xiq](https://xiqinc.com/)
 - [Cafe Zupas](https://cafezupas.com/)
 - [Dextr](https://dextr.cloud)
 - [Canvs.ai](https://canvs.ai)
